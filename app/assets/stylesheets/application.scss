@@ -34,6 +34,7 @@ body {
 body {
   color: #fff;
   text-align: center;
+  text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -181,5 +182,4 @@ body {
   width: 22rem;
   margin: 0 auto;
   float: none;
-  margin-bottom: 10px;
 }
