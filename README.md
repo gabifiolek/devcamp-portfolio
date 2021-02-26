@@ -13,7 +13,7 @@
 
 ```ruby
 def my_great_method
-  puts "Hello! Here is my great method."
+  puts "here is my great method"
 end
 ```
 
