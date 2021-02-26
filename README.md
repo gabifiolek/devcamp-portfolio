@@ -13,20 +13,10 @@
 
 ```ruby
 def my_great_method
-  puts "here it is"
-  puts "here it is"
-  puts "here it is"
-  puts "here it is"
-  puts "here it is"
-  puts "here it is"
+  puts "here is my great method"
 end
 ```
 
 ```javascript
-alert('Hi there');
-alert('Hi there');
-alert('Hi there');
-alert('Hi there');
-alert('Hi there');
-alert('Hi there');
+alert('Hello!');
 ```
